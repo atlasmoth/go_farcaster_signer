@@ -9,7 +9,7 @@ APP_FID="<DEVELOPER'S FID>"
 APP_MNEMONIC="<DEVELOPER'S MNEMONIC>"
 ```
 
-Run start up command
+Run start up command after installation
 
 ```bash
 go run *.go
