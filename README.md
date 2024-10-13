@@ -6,7 +6,7 @@ Create .env file and set the following variables
 
 ```bash
 APP_FID="<0x116B52E794e1FC1DbceBBb2bc2C2ACffF6529b99>"
-APP_MNEMONI<grain coin struggle satoshi gift rapid trash exit social govern cinnamon silly>"
+APP_MNEMONI<>"
 ```
 
 Run start up command after installation
